@@ -1,5 +1,11 @@
 # @capacitor-firebase/firestore
 
+## 8.3.0
+
+### Patch Changes
+
+- [`79c95bc5fc821f8f420d7b04bcab3fffbff8215a`](https://github.com/capawesome-team/capacitor-firebase/commit/79c95bc5fc821f8f420d7b04bcab3fffbff8215a) ([#981](https://github.com/capawesome-team/capacitor-firebase/pull/981)): fix(firestore): handle `DocumentReference` fields in the web deserializer to prevent `Maximum call stack size exceeded`
+
 ## 8.2.0
 
 ### Minor Changes
